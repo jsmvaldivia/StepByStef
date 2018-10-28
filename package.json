@@ -1,7 +1,7 @@
 {
   "name": "stepbystef",
   "version": "1.0.0",
-  "description": "",
+  "description": "Winning project of a 24h hackathon organized by Stef. September 2018.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
